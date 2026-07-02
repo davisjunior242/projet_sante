@@ -2,7 +2,7 @@
 # AKIENI ACADEMY - Projet Sante Publique
 # Semaine 2 - CHALLENGE ENTREPRISE : Rapport comparatif
 # 3 hopitaux du departement du Pool
-# Votre nom : M'BIELO-LIBEAU Davis Junior
+# Apprenant: M'BIELO-LIBEAU Davis Junior
 # Date : 25/06/2026
 # ============================================================
 

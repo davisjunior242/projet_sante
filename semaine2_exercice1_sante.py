@@ -1,7 +1,7 @@
 # =========================================
 # AKIENI ACADEMY - Projet Sante Publique
 # Semaine 2 - Exercice 1 : Fiche Patient CHU Brazzaville
-# Votre nom : M'BIELO-LIBEAU Davis Junior
+# Apprenant : M'BIELO-LIBEAU Davis Junior
 # Date : 25/06/2026
 # =========================================
 
