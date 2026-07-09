@@ -66,8 +66,6 @@ def calculatrice():
     print("=" * 50)
     
     continuer = True
-    
-    # Tant que continuer est Vrai, on fait des calculs
     while continuer:
         # Étape 1: Afficher le menu des opérations
         afficher_menu()
@@ -77,15 +75,15 @@ def calculatrice():
         
         # Étape 3: Vérifier si l'utilisateur veut quitter
         if choix == "5":
-            # On dit au revoir et on sort de la boucle
+            
             afficher_au_revoir()
-            break  # "break" sort de la boucle while
+            break 
         
         # Étape 4: Vérifier si le choix est valide (1,2,3 ou 4)
         if choix not in ["1", "2", "3", "4"]:
-            # Si ce n'est pas valide, on affiche un message
+           
             print(" Ce n'est pas un choix valide ! Réessaie.")
-            # "continue" fait revenir au début de la boucle
+            
             continue
         
         # Étape 5: Demander les deux nombres à l'utilisateur
@@ -93,7 +91,7 @@ def calculatrice():
         a = obtenir_nombre("Premier nombre : ")
         b = obtenir_nombre("Deuxième nombre : ")
         
-        erreur = False  # On suppose qu'il n'y a pas d'erreur
+        erreur = False 
         
         # Étape 7: Faire le calcul selon le choix de l'utilisateur
         if choix == "1":
